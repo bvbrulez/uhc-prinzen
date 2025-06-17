@@ -1,3 +1,12 @@
+mniemann:
+  name: Markus Niemann
+  title: Docusaurus maintainer
+  url: https://www.markus-niemann.de
+  image_url: https://github.com/bvbrulez.png
+  page: true
+  socials:
+    github: bvbrulez
+
 yangshun:
   name: Yangshun Tay
   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd

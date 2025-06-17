@@ -1,3 +1,18 @@
+uhc:
+  label: UHC
+  permalink: /uhc
+  description: UHC tag description
+
+wesselbleker_prinzen:
+  label: Wessel Bleker Prinzen
+  permalink: /wesselbleker_prinzen
+  description: Wessel Bleker Prinzen tag description
+
+spotondutch:
+  label: Spot on Dutch
+  permalink: /spotondutch
+  description: Spot on Dutch tag description
+
 facebook:
   label: Facebook
   permalink: /facebook

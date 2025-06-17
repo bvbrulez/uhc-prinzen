@@ -1,18 +1,23 @@
-# Website
+`npm start`
+Starts the development server.
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+`npm run build`
+Bundles your website into static files for production.
 
-## Installation
+`npm run serve`
+Serves the built website locally.
 
-```bash
-yarn
-```
+`npm run deploy`
+Publishes the website to GitHub pages.
 
-## Local Development
+We recommend that you begin by typing:
 
-```bash
-yarn start
-```
+`cd uhc`
+`npm start`
+
+Happy building awesome websites!
+
+=====================
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 

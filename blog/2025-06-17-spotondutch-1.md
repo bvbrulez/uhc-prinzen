@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: spotondutch-1
+title: Spot On Dutch 2025-1
 authors: [mniemann]
 tags: [spotondutch]
 ---

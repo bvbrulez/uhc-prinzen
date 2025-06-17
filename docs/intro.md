@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Spot On Dutch 2025
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Alle wichtigen Infos zum Turnier **"Spot On Dutch 2025"**.
 
-## Getting Started
+## How to get there
 
 Get started by **creating a new site**.
 
