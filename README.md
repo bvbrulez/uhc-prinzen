@@ -1,3 +1,5 @@
+# Lokale Entwicklung
+
 `npm start`
 Starts the development server.
 
@@ -10,26 +12,14 @@ Serves the built website locally.
 `npm run deploy`
 Publishes the website to GitHub pages.
 
-We recommend that you begin by typing:
-
-`cd uhc`
-`npm start`
-
-Happy building awesome websites!
+`npm run build`
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 # Deployment zu GitHub Pages
 
 `GIT_USER=<git-username> npm run deploy`
 
-## Build
-
-```bash
-npm run build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
+- https://docusaurus.io/docs/deployment#triggering-deployment-with-github-actions
 
 Using SSH:
 
