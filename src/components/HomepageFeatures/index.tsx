@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     title: 'How to get there',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <a href="docs/how-to-get-there">
+      <a href="/uhc-prinzen/docs/spotondutch2025/hinfahrt">
         Wer fährt mit wem wann wohin? Hier findest du alle Infos zu den
         Fahrgemeinschaften zum Turnier.
       </a>
@@ -23,16 +23,20 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Timetable',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: <>Hier findest du den Spielplan für das Turnier</>,
+    description: (
+      <a href="/uhc-prinzen/docs/spotondutch2025/timetable">
+        Hier findest du den Spielplan für das Turnier
+      </a>
+    ),
   },
   {
     title: 'Important to know',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
+      <a href="/uhc-prinzen/docs/spotondutch2025/rules">
         Alles weitere zum Turnier, wie z.B. die Regeln, die Verpflegung, das
         Outfit etc.
-      </>
+      </a>
     ),
   },
 ];

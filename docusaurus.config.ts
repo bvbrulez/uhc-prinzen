@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'UHC Prinzen',
-  tagline: 'Spot On Dutch 2025',
+  title: 'Wesselbleker Prinzen',
+  tagline: 'UHC Hamburg',
   favicon: 'img/favicon.ico',
 
   deploymentBranch: 'gh-pages', // The branch where the site will be deployed, usually 'gh-pages' for GitHub Pages
@@ -73,12 +73,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/uhc.png',
     navbar: {
       title: 'UHC Prinzen',
       logo: {
         alt: 'UHC Wesselbleker Prinzen',
-        src: 'img/logo.svg',
+        src: 'img/uhc.png',
       },
       items: [
         {
