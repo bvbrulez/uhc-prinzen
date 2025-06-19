@@ -1,3 +1,0 @@
-# Turnierplan
-
-Timetable etc.
